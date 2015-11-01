@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>Insert titledd here</title>
 <link
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
 	rel="stylesheet">
