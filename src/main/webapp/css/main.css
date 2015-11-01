@@ -1,0 +1,49 @@
+.quick-links-widget {
+    border: 1px solid #d7d9dc;
+    padding: 10px 15px 15px;
+}
+
+.widget ul li {
+    list-style: none;
+    padding: 8px 8px 8px 23px;
+    background: no-repeat 8px 15px;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+    width: 1170px;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div {
+    display: block;
+}
+
+ul.articles{
+	list-style: none;
+	margin: 0;
+}
+
+.row {
+    margin-left: -30px;
+}
+
+.page-container {
+    width: 100%;
+}
+
+.page-content {
+    margin-bottom: 20px;
+}
+
+.row.separator {
+    margin-bottom: 10px;
+}
+
+.articles-list {
+    margin-bottom: 20px;
+}
