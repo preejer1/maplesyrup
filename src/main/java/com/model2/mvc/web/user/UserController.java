@@ -20,13 +20,12 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.servlet.ModelAndView;
 
 import com.google.gson.Gson;
 import com.model2.mvc.common.Page;
 import com.model2.mvc.common.Search;
 import com.model2.mvc.common.SendEmail;
-import com.model2.mvc.service.domain.AuctionList;
-import com.model2.mvc.service.domain.Car;
 import com.model2.mvc.service.domain.User;
 import com.model2.mvc.service.user.UserService;
 
@@ -82,4 +81,10 @@ public class UserController {
 			return "forward:user/getUser.jsp";
 		}
 	
+		 @RequestMapping("/header.do")
+	        public ModelAndView header() {
+	            ModelAndView mv = new ModelAndView();
+	            mv.setViewName("header");
+	            return mv;
+	        }
 }
