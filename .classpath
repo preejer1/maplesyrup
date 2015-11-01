@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/3.2.2.RELEASE/318be9223910a02c22c4b18898a0ccf79789e15/spring-context-support-3.2.2.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/3.2.2.RELEASE/344a2d5d7d6ab1a83931b81f19e27ae1152c144a/spring-context-support-3.2.2.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.mail/mail/1.4.7/9add058589d5d85adeb625859bf2c5eeaaedf12d/mail-1.4.7.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.mail/mail/1.4.7/bb76e5678cdb3e7488bb5578a8461e82fba5fe36/mail-1.4.7-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/19c6d8dee6803c520d855ff7e8a8c3d97f1271ec/json-simple-1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.6.8/d3fdabe0a1f7f395d64bf9d0c1a3e0f1b98430df/aspectjweaver-1.6.8.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.6.8/786d37f8bcec6ca8c73730c829d98e4afa267255/aspectjweaver-1.6.8-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/junit/junit/4.7/d9444742a5b897c6280724a49f57a8155517d21f/junit-4.7.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/junit/junit/4.7/b75d1751cddae5eaa612e5926ec76987caed08df/junit-4.7-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-dbcp/commons-dbcp/1.2.2/4fd4c6110e9bca3a655b717eb2e5920febb8403d/commons-dbcp-1.2.2.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.5.3/7ad440d63c6eea5e79f1737e264810c76258d042/commons-pool-1.5.3.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.5.3/7c4d461b6574f056e1d4fc6daa16821382b53bef/commons-pool-1.5.3-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/3.0.5.RELEASE/4540fba71d41869a6ed5fb504317f2e702761690/spring-test-3.0.5.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/3.0.5.RELEASE/1d4bea4059bc8711933bc322b09875dc3cd3c1c3/spring-test-3.0.5.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/2f5877ef15adb721421e80f5aa2b6fe069eec8ed/jstl-1.2-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/3.2.14.RELEASE/3c3a918ab84fc7960c3824406bdeff7588cf5612/spring-context-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/3.2.14.RELEASE/bcf358a5a7cf491c574b35333067a20bdd18f1ca/spring-context-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/3.2.14.RELEASE/ae2906f71ac1e9853e5ca4c35304e32310209348/spring-webmvc-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/3.2.14.RELEASE/95d0f79877ecd92321e97a03ba635f3e91549a7b/spring-webmvc-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/3.2.14.RELEASE/acaeede1fa6eeb5706c0329505c575f822ca3655/spring-jdbc-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/3.2.14.RELEASE/1af7e46c6f44c40dfa23b41e95b76b0d6fa8661/spring-jdbc-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/37d4385e146df3794aab4f773ac709e6cb83517d/mybatis-spring-1.2.2-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/7b6bf82cea13570b5290d6ed841283a1fcce170/mybatis-3.2.8.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.8/287bc9f8485a85211d7a900fe43c74264ee0561b/mybatis-3.2.8-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/677abe279b68c5e7490d6d50c6951376238d7d3e/log4j-1.2.17-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/c621b54583719ac0310404463d6d99db27e1052c/commons-fileupload-1.3.1.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.3.1/a1fa20f7f3ad210f4b2eb51b63be3f0273be263a/commons-fileupload-1.3.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.1/eeeb68631711256418dfbb47b11c731b6c8f6235/javax.websocket-api-1.1.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.1/c2c8923b5cc02e5ff9eb100fc718b582efb164e2/javax.websocket-api-1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.8/ca016d1d4f48d7aa2b6ea75639d53b124ad189a8/mysql-connector-java-5.1.8.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/6bf0ebb7efd993e222fc1112377b5e92a13b38dd/javax.servlet-api-3.0.1.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.0.1/1952f91d84016a39e31346c9d18bd8c9c4a128a/javax.servlet-api-3.0.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/3697e9f67a2ed7ac5f589cff30f21173299440/activation-1.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/3.2.14.RELEASE/3192e0808e121f25cd90d63053c37fefcdaace30/spring-expression-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/3.2.14.RELEASE/bdf934474e15e48fb9e6b4085553d2f34dc3e739/spring-expression-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/3.2.14.RELEASE/a01815b0a3c09919630a46c2409488dd78b3c9fd/spring-web-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/3.2.14.RELEASE/c1b1d2b1e59c3ddf028deffd6498ecee251896c7/spring-web-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/3.2.14.RELEASE/b86bb0e11bb03f4a092aedb0c3b890462c552a5f/spring-tx-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/3.2.14.RELEASE/2ad509ac960929b1612b8f42bbebaccc79def5e4/spring-tx-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a/commons-io-2.2.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/8d6b98f21262995489a8418fff8da992d7e25c1e/commons-io-2.2-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/3.2.14.RELEASE/1d38ca9c07671773746df608a7d777e2942100ab/spring-aop-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/3.2.14.RELEASE/7fc03371ba2ec9221fb8de59be31121103071817/spring-aop-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/3.2.14.RELEASE/795595a5a3411cbcd66353073354c57f8f7be2e0/spring-beans-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/3.2.14.RELEASE/d3fff1026b492a46d89bad933f326f4c9f082e01/spring-beans-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/3.2.14.RELEASE/515b3d5c0c4931c4db27aa4cdfbc04541cd33a5b/spring-core-3.2.14.RELEASE.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/3.2.14.RELEASE/ccf65aa466a6ce4f8f967a6b15681875194c6f13/spring-core-3.2.14.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f/commons-logging-1.1.3.jar" sourcepath="/Users/apple/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.3/28bb0405fddaf04f15058fbfbe01fe2780d7d3b6/commons-logging-1.1.3-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
