@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE mapper
+		PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+		"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- UserMapper.xml :: SQL 를 갖는 MetaData - MyBatis Framework 은 XML MetaData 
+	를 사용 SQL구문을 관리 (SQL은 xml 을 통해 적절히 캡슐화 되어 애플리케이선 외부로 분리함) - SQL문의 입력(?) / 
+	출력(?)을 매핑한다. <== 아래의 select element 참조 -->
+
+<mapper namespace="BoardMapper">
+
+	<resultMap id="boardSelectMap" type="com.model2.mvc.service.domain.Board">
+		<result property="board_no" 	column="board_no" 		jdbcType="INTEGER"/>
+		<result property="user_id"	column="user_id" 	    jdbcType="VARCHAR" />
+		<result property="contents" column="contents"     	jdbcType="VARCHAR" />
+		<result property="title" column="title" 	    jdbcType="VARCHAR" />
+		<result property="reg_date" 	column="reg_date"		 	jdbcType="DATE" />
+		<result property="img_path"  	column="img_path" 			jdbcType="VARCHAR" />
+		<result property="view_count" 	column="view_count"		jdbcType="INTEGER" />
+	</resultMap>
+
+	<select id="getCount" parameterType="String" resultMap="boardSelectMap">
+		SELECT
+		count(*)
+		FROM board
+	</select>
+	
+<!-- 	<select id="board_limit" parameterType="String" resultMap = boardSelectMap">
+	client.query('select title, contents from board limit ?,5', [currentPage] , function(e,result){
+		console.log(result);
+		res.json(result);
+	});
+	</select> -->
+</mapper>
+
